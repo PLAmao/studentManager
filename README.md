@@ -1,0 +1,2 @@
+#studentManager
+一个基于node.js+express+mongodb的学生信息管理系统

@@ -1,0 +1,25 @@
+{
+  "name": "studentManager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.oschina.net/PLAmao/studentManager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "captchapng": "0.0.1",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "mongodb": "^2.2.26",
+    "xtemplate": "^4.6.0",
+    "xtpl": "^3.3.0"
+  }
+}
